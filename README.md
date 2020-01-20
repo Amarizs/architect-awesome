@@ -457,7 +457,7 @@ Hbase、LevelDB、Tair（Long DB）、nessDB 采用 LSM 树的结构。LSM可以
 * [《排序算法总结之插入排序》](https://www.cnblogs.com/hapjin/p/5517667.html)
 
 ### 快速排序
-* [《坐在马桶上看算法：快速排序》](http://developer.51cto.com/art/201403/430986.htm)
+* [《坐在马桶上看算法：快速排序》](https://blog.csdn.net/afjaklsdflka/article/details/52829030)
 	* 一侧比另外一侧都大或小。 
 ### 归并排序
 * [《图解排序算法(四)之归并排序》](http://www.cnblogs.com/chengxiao/p/6194356.html)
@@ -567,7 +567,7 @@ KMP：Knuth-Morris-Pratt算法（简称KMP）
 
 ## 多线程
 
-* [《40个Java多线程问题总结》](http://www.importnew.com/18459.html)
+* [《40个Java多线程问题总结》](https://www.cnblogs.com/xrq730/p/5060921.html)
 
 ## 线程安全
 
@@ -649,7 +649,7 @@ KMP：Knuth-Morris-Pratt算法（简称KMP）
 
 ### 乐观锁 & CAS
 
-* [《乐观锁的一种实现方式——CAS》](http://www.importnew.com/20472.html)
+* [《乐观锁的一种实现方式——CAS》](https://blog.csdn.net/u011514810/article/details/76895723/)
 	* 和MySQL乐观锁方式相似，只不过是通过和原值进行比较。	 
 
 ### ABA 问题
@@ -1391,7 +1391,7 @@ Goolge出品、占用空间和效率完胜其他序列化类库，如Hessian；�
 * [《SQL优化之道》](https://blog.csdn.net/when_less_is_more/article/details/70187459)
 * [《mysql数据库死锁的产生原因及解决办法》](https://www.cnblogs.com/sivkun/p/7518540.html)
 * [《导致索引失效的可能情况》](https://blog.csdn.net/monkey_d_feilong/article/details/52291556)
-* [《 MYSQL分页limit速度太慢优化方法》](https://blog.csdn.net/zy_281870667/article/details/51604540)
+* [《 MYSQL分页limit速度太慢优化方法》](https://www.jianshu.com/p/0a7e3055a01f)
 	* 原则上就是缩小扫描范围。
 
 
